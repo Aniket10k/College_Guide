@@ -37,6 +37,7 @@ var mita=new Object();
 	mita.web="mita.co.in";
 	mita.fees=90000;
 	mita.cet=100;
+
 var jnec=new Object();
 	jnec.city="aurangabad";
 	jnec.address="shivaji nagar";
@@ -52,6 +53,7 @@ var karad=new Object();
 	karad.web="karad.co.in";
 	karad.fees=60000;
 	karad.cet=120;
+	
 var asssms=new Object();
 	asssms.city="satara";
 	asssms.address="satra,satara";
