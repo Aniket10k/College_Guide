@@ -1,0 +1,23 @@
+{
+  "name": "collegeguide",
+  "version": "1.0.0",
+  "description": "A college finder web application for students which suggests the best college based on their marks in CET and budget as per fees of corresponding college.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aniket10k/College_Guide.git"
+  },
+  "author": "Aniket Kulkarni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aniket10k/College_Guide/issues"
+  },
+  "homepage": "https://github.com/Aniket10k/College_Guide#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
